@@ -1,9 +1,9 @@
 # Hello! I'm Azamat 👋
 
 <div align="center">
-	<a href="https://www.linkedin.com/in/azamat-mambetov" _target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-	<a href="https://github.com/MrMurdock11"><img src="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub&logoColor=white" /></a>
-	<a href="https://mrmurdock11.github.io"><img src="https://img.shields.io/badge/FullStackJunction-47848F.svg?style=for-the-badge&logo=gnometerminal&logoColor=white" /></a>
+	<a href="https://www.linkedin.com/in/azamat-mambetov" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+	<a href="https://github.com/MrMurdock11"><img src="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub&logoColor=white" target="_blank" /></a>
+	<a href="https://mrmurdock11.github.io"><img src="https://img.shields.io/badge/FullStackJunction-47848F.svg?style=for-the-badge&logo=gnometerminal&logoColor=white" target="_blank" /></a>
 </div>
 
 ## About Me 🙋‍♂️
@@ -17,5 +17,5 @@ I believe in the power of technology to solve problems in a way that is both pra
 ## Connect With Me 🌐
 I'm always open to discussing new projects, technology trends, or just to chat. Feel free to contact me!
 
-<a href="https://www.linkedin.com/in/azamat-mambetov" _target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=LinkedIn&logoColor=white" /></a>
-<a href="https://github.com/MrMurdock11"><img src="https://img.shields.io/badge/GitHub-000000.svg?style=flat&logo=GitHub&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/azamat-mambetov" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=LinkedIn&logoColor=white" /></a>
+<a href="https://github.com/MrMurdock11"><img src="https://img.shields.io/badge/GitHub-000000.svg?style=flat&logo=GitHub&logoColor=white" target="_blank" /></a>
